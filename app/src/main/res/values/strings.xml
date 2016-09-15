@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sem parar</string>
+    <string name="largeText1">Digite seu nome:</string>
+    <string name="button1">Alterar</string>
+    <string name="button2">Modificar</string>
+    <string name="button3">Limpar</string>
+    <string name="textView2">Texto modificável </string>
+    <string name="textView3">Tela 1 </string>
+    <string name="textView4">Tela 2</string>
+    <string name="newButton2">Tela 2</string>
+    <string name="newButton3">Tela 3</string>
+    <string name="newButton4">Ok</string>
+    <string name="newButton5">Cancel</string>
+</resources>
