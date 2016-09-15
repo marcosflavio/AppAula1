@@ -17,13 +17,13 @@ public class Activity2 extends AppCompatActivity {
         Bundle extras = getIntent().getExtras();
 
         if(extras != null){
-            //lalala
+
 
             String texto = extras.getString(IntentActivity.CHAVE1);
 
             TextView textView = (TextView) findViewById(R.id.textView5);
             textView.setText(texto);
-    //lalalal
+
         }
         return;
 
