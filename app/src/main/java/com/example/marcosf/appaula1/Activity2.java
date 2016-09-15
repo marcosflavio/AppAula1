@@ -23,7 +23,7 @@ public class Activity2 extends AppCompatActivity {
 
             TextView textView = (TextView) findViewById(R.id.textView5);
             textView.setText(texto);
-
+    //lalalal
         }
         return;
 
